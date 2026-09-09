@@ -1,0 +1,10 @@
+{
+  "description": "Creates a visually appealing and user-friendly home page to effectively showcase content and engage visitors for businesses or personal brands.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
